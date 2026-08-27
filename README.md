@@ -1,6 +1,5 @@
 🧬 BacTigen – Automated identification of vaccine candidates from raw protein sequences
 
-
 BacTigen is a fully automated machine learning‑powered reverse vaccinology platform designed to identify protective antigens and design multi‑epitope vaccine candidates directly from raw bacterial protein sequences.
 
 This repository contains the standalone, portable version of BacTigen – no R installation is required.
