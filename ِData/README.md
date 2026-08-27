@@ -18,10 +18,8 @@ This folder contains the curated protein sequence datasets used to train the Bac
 All sequences are in standard **FASTA format**. Each header includes a label (`Positive` or `Negative`) after the `|` character, indicating the class membership.
 
 **Example headers:**
->Protegen,3|VO,VO_0010856|PMID,10816475,|Positive
-MKSLFIASTMVLMAFPAFAESTTVKMYEALPTGPGKEVGTVVISEAPGGLHFKVNMEKLTPGYHGFHVHENPSCAPGEKDGKIVPALAAGGHYDPGNTHHHLGPEGDGHMGDLPRLSANADGKVSETVVAPHLKKLAEIKQRSLMVHVGGDNYSDKPEPLGGGGARFACGVIE
->ZAPB_SERP5;Serratia_proteamaculans;9240_Da|Negative
-MSFEVFEKLESKVQQAIDTITLLQMEIEELKDKNNTLSQEVQAASGNHESLVRENQQLKEEQHVWQDRLRALLGKMEEV
+Protegen,3|VO,VO_0010856|PMID,10816475,|Positive
+ZAPB_SERP5;Serratia_proteamaculans;9240_Da|Negative
 
 
 
